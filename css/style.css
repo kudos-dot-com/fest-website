@@ -1721,7 +1721,7 @@ ul.minicart .cart-price .new {
 
 /* 5. Slider */
 .slider-bg {
-	background-image: url(../img/cover1.jpg) ;
+	background-image: url(../img/cover.jpg) ;
 	background-position: center;
 	background-size: cover;
 	background-repeat:no-repeat;
@@ -2781,7 +2781,7 @@ ul.minicart .cart-price .new {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: #20132b;
+	background: #20132b00;
 	padding: 20px 35px;
 }
 .coming-match-time .time-count span {
