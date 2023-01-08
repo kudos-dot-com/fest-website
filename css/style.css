@@ -3023,8 +3023,8 @@ ul.minicart .cart-price .new {
 	display: flex;
 	align-items: center;
 	position: absolute;
-	right: 0;
-	bottom: 0;
+	left: 1%;
+	bottom: 10px;
 }
 .tournament-schedule-meta h5 {
 	font-size: 13px;
