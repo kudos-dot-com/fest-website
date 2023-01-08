@@ -2183,6 +2183,7 @@ ul.minicart .cart-price .new {
 	background-color: rgba(245, 58, 7, 0);
 	box-shadow: 0px 5px 12.09px 0.91px rgba(0, 0, 0, 0.23);
 	position: relative;
+	margin-top: 10%;
 }
 .about-img > img {
 	width: 100%;
