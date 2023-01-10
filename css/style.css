@@ -706,7 +706,7 @@ label {
 }
 /* button style */
 .btn {
-	-moz-user-select: none;
+	/* -moz-user-select: none; */
 	border: medium none;
 	border-radius: 5px;
 	color: #1c1121;
@@ -1891,7 +1891,7 @@ ul.minicart .cart-price .new {
 }
 .rotated-btn {
     font-size: 16px;
-    background: #ff5917;
+    background: #e4a101;
     border-radius: 0;
     color: #fff;
     padding: 19px 31px;
@@ -1908,7 +1908,7 @@ ul.minicart .cart-price .new {
     top: 0;
     width: 0;
     height: 0;
-    border-top: 54px solid #ff5917;
+    border-top: 54px solid #e4a101;
     left: -17px;
 	border-left: 17px solid transparent;
 	transition: all 0.3s ease 0s;
@@ -1921,7 +1921,7 @@ ul.minicart .cart-price .new {
     top: 0;
     width: 0;
     height: 0;
-    border-top: 54px solid #ff5917;
+    border-top: 54px solid #e4a101;
     right: -17px;
 	border-right: 17px solid transparent;
 	transition: all 0.3s ease 0s;
@@ -2333,7 +2333,7 @@ ul.minicart .cart-price .new {
     margin-bottom: 0;
 }
 .third-section-title h2 span {
-	color: #ff5917;
+	color: #e4a101;
 }
 .third-section-title {
     padding-bottom: 25px;
@@ -2423,7 +2423,7 @@ ul.minicart .cart-price .new {
 }
 .my-info-social ul li a i {
 	margin-right: 5px;
-	color: #ff5917;
+	color: #e4a101;
 	font-weight: 400;
 }
 .my-clan-wrap {
@@ -2452,7 +2452,7 @@ ul.minicart .cart-price .new {
     font-weight: 700;
 }
 .my-clan-info h4 span {
-	color: #ff5917;
+	color: #e4a101;
 }
 
 /* Live-match */
@@ -3190,7 +3190,7 @@ ul.minicart .cart-price .new {
     font-size: 11px;
     font-weight: 700;
     letter-spacing: 2px;
-	color: #ff5917;
+	color: #e4a101;
 	transition: .3s linear;
 }
 .third-team-content h5 a:hover {
@@ -3263,7 +3263,7 @@ ul.minicart .cart-price .new {
 	margin-right: 5px;
 }
 .slider-nav > span:hover {
-	color: #ff5917;
+	color: #e4a101;
 }
 
 /* 14. Just-gamers */
@@ -4613,11 +4613,11 @@ ul.minicart .cart-price .new {
     -ms-transition: all 0.3s ease-out 0s;
     -o-transition: all 0.3s ease-out 0s;
     transition: all 0.3s ease-out 0s;
-    background: #ff5917;
+    background: #e4a101;
 }
 .my-match-info .live-btn:hover,
 .watch-stream:hover {
-	color: #ff5917;
+	color: #e4a101;
 }
 .my-match-info .live-btn:hover::before {
 	background: #fff;
@@ -4632,7 +4632,7 @@ ul.minicart .cart-price .new {
     font-size: 14px;
     text-transform: uppercase;
     font-weight: 600;
-    color: #ff5917;
+    color: #e4a101;
 }
 .watch-stream {
     font-size: 12px;
@@ -5355,7 +5355,7 @@ ul.minicart .cart-price .new {
 .fw-quick-link ul li a:hover,
 .fw-title h3 > span,
 .third-copyright-wrap .copyright-text p a {
-	color: #ff5917;
+	color: #e4a101;
 }
 .fw-title h3 {
     font-size: 26px;
