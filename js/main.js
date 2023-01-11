@@ -649,3 +649,24 @@ function wowAnimation() {
 
 
 })(jQuery);
+
+document.getElementById("submit").addEventListener('click',(e)=>{
+	e.preventDefault()
+ const mail= document.getElementById("mail").value;
+ const name = document.getElementById("name").value;
+ const message =document.getElementById("message").value;
+console.log(mail , name , message)
+
+Email.send({
+	Host: "smtp.gmail.com",
+	Username: "elixirbppimt2023@gmail.com ",
+	Password: "mdmsdm",
+	To: 'elixirbppimt2023@gmail.com ',
+	From: mail,
+	Subject: 'elixir messgae',
+	Body: message,
+  })
+	.then(function (message) {
+	  alert("mail sent successfully")
+	});
+});
