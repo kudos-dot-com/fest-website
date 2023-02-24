@@ -2382,7 +2382,7 @@ ul.minicart .cart-price .new {
     min-height: 140px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    /* justify-content: center; */
     padding: 25px 30px;
 }
 .mt-award img {
