@@ -2614,7 +2614,7 @@ ul.minicart .cart-price .new {
 }
 .released-game-content h4::before {
 	content: "";
-	background-image: url(../img/images/released_game_brush.png);
+	background-image: url(../img/released_game_brush.png);
 	position: absolute;
 	right: -50px;
 	top: 0;
@@ -2666,6 +2666,7 @@ ul.minicart .cart-price .new {
 	z-index: 1;
 	display: flex;
 	align-items: center;
+	display: none;
 }
 .released-game-active .slick-dots li {
 	line-height: 0;
